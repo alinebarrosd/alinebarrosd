@@ -2,11 +2,12 @@
 
 **`Dados Financeiros`**
 
-Me chamo Aline Caroline Barros, tenho 29 anos e sou natural do Mato Grosso. Sou graduada em Agronomia pela UFMT e estou em transição de carreira para a área de Dados Financeiros. Atualmente, foco meus estudos na intersecção entre gestão, finanças e tecnologia. Meu objetivo é aplicar análise de dados para otimizar processos financeiros e auxiliar na tomada de decisão estratégica.
+Me chamo Aline Caroline Barros, sou graduada em Agronomia pela UFMT e atualmente direciono minha carreira para a área de Dados Financeiros. Minha formação é composta por uma transição estratégica, unindo o conhecimento em Ciências Contábeis, MBA em Controladoria e Finanças e Pós-graduação em Gerenciamento de Projetos.
+Meu foco é a aplicação de Data Analytics para otimizar processos financeiros, estruturar auditorias de dados e apoiar a tomada de decisão estratégica através de dashboards e modelos preditivos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Análise e Linguagens
           
   <img
      align="left" 
@@ -34,7 +35,28 @@ Me chamo Aline Caroline Barros, tenho 29 anos e sou natural do Mato Grosso. Sou 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" 
 />
-          
+<br/>
+
+### 🎲 Visualização de Dados
+
+<img
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="20px" 
+    style="padding-right: 10px;"
+src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://www.svgrepo.com/show/354428/tableau-icon.svg" 
+/>
+
 <br/>
 <br/>
 
