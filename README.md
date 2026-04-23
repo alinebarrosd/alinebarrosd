@@ -1,7 +1,5 @@
 # 💻 Aline Barros
 
-**`Dados Financeiros`**
-
 Me chamo Aline Caroline Barros, sou graduada em Agronomia pela UFMT e atualmente direciono minha carreira para a área de Dados Financeiros. Minha formação é composta por uma transição estratégica, unindo o conhecimento em Ciências Contábeis, MBA em Controladoria e Finanças e Pós-graduação em Gerenciamento de Projetos.
 Meu foco é a aplicação de Data Analytics para otimizar processos financeiros, estruturar auditorias de dados e apoiar a tomada de decisão estratégica através de dashboards e modelos preditivos.
 
